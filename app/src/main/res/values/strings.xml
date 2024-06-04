@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="volcano">Tap to find a small creature</string>
+    <string name="egg_squeeze">Keep tapping to help the egg crack</string>
+    <string name="dino_roar">Tap to escape the dinosaur</string>
+    <string name="leave">Tap to be reincarnated</string>
+    <string name="lemon_tree_content_description">Lemon tree</string>
+    <string name="lemon_content_description">Lemon</string>
+    <string name="lemonade_content_description">Glass of lemonade</string>
+    <string name="empty_glass_content_description">Empty glass</string>
+</resources>
